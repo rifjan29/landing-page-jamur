@@ -16,26 +16,26 @@ body {
 }
 h4{
     color: var(--color-secondary);
-    font-size: 28px;
+    font-size: 20px;
     font-weight: 700;
     font-family: 'Quicksand', sans-serif;
 }
 h5{
     color: var(--color-secondary);
-    font-size: 24px;
+    font-size: 15px;
     font-family: 'Quicksand', sans-serif;
     font-weight: 700;
 }
 p{
     font-family: 'Nunito', sans-serif;
-    font-size: 14px;
+    font-size: 12px;
     color: #777A84;
 }
 .card{
     border: none;
 }
 .btn-primary{
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 600;
     padding: 12px 24px;
     background-color: var(--color-secondary);
@@ -129,12 +129,12 @@ p{
 }
 .section-galery .card .swiperGaleri .swiper-slide{
     width: 90%;
-    height: 420px;
+    height: 300px;
     max-height: 500px;
 }
 .section-galery .card .swiperGaleri .swiper-slide img{
-    width: 100%;
-    height: 350px;
+    width: 90%;
+    height: 250px;
     max-height: 500px;
 }
 .section-galery .card .swiper-pagination-bullet-active{
@@ -169,9 +169,9 @@ p{
     border-radius: 50px;
 }
 .section-saran .card .col-md-6.back-contact{
-    border-radius: 50px;
+    border-radius: 25px;
     background-image: url('../img/background/bag-01.png');
-    height: 665.03px;
+    height: 385.03px;
     background-size: 100%;
     background-repeat:no-repeat;
     background-position:center;
@@ -192,7 +192,7 @@ p{
     text-decoration: none;
 }
 .footer-content a i{
-    font-size: 28px;
+    font-size: 20px;
     color:var(--color-secondary);
 }
 .footer-content a span{
