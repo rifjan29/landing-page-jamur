@@ -16,7 +16,7 @@ body {
 }
 h4{
     color: var(--color-secondary);
-    font-size: 48px;
+    font-size: 28px;
     font-weight: 700;
     font-family: 'Quicksand', sans-serif;
 }
@@ -28,14 +28,14 @@ h5{
 }
 p{
     font-family: 'Nunito', sans-serif;
-    font-size: 20px;
+    font-size: 14px;
     color: #777A84;
 }
 .card{
     border: none;
 }
 .btn-primary{
-    font-size: 24px;
+    font-size: 14px;
     font-weight: 600;
     padding: 12px 24px;
     background-color: var(--color-secondary);
@@ -196,7 +196,7 @@ p{
     color:var(--color-secondary);
 }
 .footer-content a span{
-    font-size: 28px;
+    font-size: 14px;
 }
 /* end footer */
 /* button whatsapp */
@@ -214,7 +214,7 @@ p{
 /* produk */
 .section-produk{
     width: 100%;
-    height: max-content;
+    height: 800px;
 }
 .section-produk .produk-button{
     left: 50%;
