@@ -341,6 +341,23 @@ p{
 }
 
 /* end produk */
+
+/* galeri */
+.section-galeri{
+    /* padding: 40px; */
+    min-height: 100vh;
+}
+.section-galeri .row > div {
+    padding: 2px;
+}
+.section-galeri .lightbox img {
+    width: 100%;
+    border-radius: 0;
+    position: relative;
+}
+
+
+/* end galeri */
 /* Small devices (landscape phones, 576px and up) */
 @media (max-width: 762px) { 
     .section-services{
