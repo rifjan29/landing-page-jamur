@@ -358,6 +358,22 @@ p{
 
 
 /* end galeri */
+
+/* kontak kami */
+.section-kontak-kami{
+        width: 100%;
+        height: max-content;
+}
+.section-kontak-kami a{
+    color: #777A84;
+    font-size: 16px;
+    text-decoration: none;
+}
+.section-kontak-kami a i{
+    font-size: 20px;
+    color:var(--color-secondary);
+}
+/* end kontak kami */
 /* Small devices (landscape phones, 576px and up) */
 @media (max-width: 762px) { 
     .section-services{
